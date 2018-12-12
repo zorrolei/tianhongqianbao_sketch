@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "0248889B-B755-49BA-9827-481530A1B03A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 40,
+    "x": 1203,
+    "y": 253
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "slice",
+      "id": "188C7B6E-BDB1-408C-8034-E308B15D9696"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AF60F7C7-5CD4-4440-87BC-377E4901531B"
+    },
+    {
+      "class": "group",
+      "id": "70C227D2-40D3-45AC-B9CA-F85411FD3D27"
+    }
+  ],
+  "name": "icon_bank_gongshang",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

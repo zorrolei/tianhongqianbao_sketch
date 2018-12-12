@@ -1,0 +1,46 @@
+{
+  "_class": "group",
+  "do_objectID": "ABEFAC6E-5855-4510-B28F-389396BB5D46",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 23.466796875,
+    "width": 30,
+    "x": 25,
+    "y": 14
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6E097CA7-4598-43A8-9811-AA2B230A0B4F"
+    }
+  ],
+  "name": "键盘",
+  "nameIsFixed": false,
+  "originalObjectID": "ABEFAC6E-5855-4510-B28F-389396BB5D46",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

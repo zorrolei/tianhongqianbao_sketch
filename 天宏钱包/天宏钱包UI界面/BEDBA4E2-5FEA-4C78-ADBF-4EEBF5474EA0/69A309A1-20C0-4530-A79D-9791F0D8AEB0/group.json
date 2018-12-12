@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "69A309A1-20C0-4530-A79D-9791F0D8AEB0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 40,
+    "x": 1005,
+    "y": 253
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "slice",
+      "id": "BBE55077-625C-4482-B6DC-9767788177C1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F0B2EC13-0330-433B-B468-3E0E7E34263C"
+    },
+    {
+      "class": "group",
+      "id": "F2EA2633-7FC2-4D7E-BAD8-9E78A6056F7C"
+    }
+  ],
+  "name": "icon_bank_zhaoshang",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

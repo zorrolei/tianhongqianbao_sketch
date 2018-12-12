@@ -1,0 +1,89 @@
+{
+  "_class": "group",
+  "do_objectID": "EA242D0B-CAF5-40C1-A90D-B7F3E2623D77",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 40.03913894324853,
+    "width": 40,
+    "x": 160,
+    "y": 199
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "427586DE-EEC0-4BE0-9169-AAE6F4C292F8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "02D42497-7079-48E5-82E9-721DB433B929"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "88978B08-9C48-426B-B8B8-D055244A1856"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4908A84E-8412-4A85-A464-CB9550126C9E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "34C611D9-C943-42D3-996D-92677A417A80"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "21537461-B7A9-4612-9852-ABE216408874"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2824E053-DB2C-48EE-B450-ED1264E9F775"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "784B666B-28C5-4C43-BE72-B6836F68F5BC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B60220DB-8A09-4BC5-8EF6-A13D7B9E52E3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4ABF5372-C22D-4166-8DDB-F18EB21DD279"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C08B3CF9-DD65-414E-9800-3F44CA0801FA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "629DFBBC-1264-4D0A-B2D8-773D506D3D7F"
+    }
+  ],
+  "name": "加载",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

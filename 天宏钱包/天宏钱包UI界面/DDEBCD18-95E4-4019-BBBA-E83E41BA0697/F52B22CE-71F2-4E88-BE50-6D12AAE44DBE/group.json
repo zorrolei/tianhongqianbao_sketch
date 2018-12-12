@@ -1,0 +1,46 @@
+{
+  "_class": "group",
+  "do_objectID": "F52B22CE-71F2-4E88-BE50-6D12AAE44DBE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 44,
+    "width": 120,
+    "x": 35,
+    "y": 226
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3E5C9AB5-3AFF-4FFA-9DB6-E5DFAF10D5A9"
+    },
+    {
+      "class": "text",
+      "id": "318CED45-0CC1-485A-8096-8AB425A7060A"
+    }
+  ],
+  "name": "按钮 copy 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "165A10A9-708D-4965-B48A-A1B1CBB2416F"
+  }
+}

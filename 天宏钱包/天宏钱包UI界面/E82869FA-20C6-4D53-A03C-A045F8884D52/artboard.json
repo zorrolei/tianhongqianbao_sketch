@@ -1,0 +1,205 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9450980392156862,
+    "green": 0.9450980392156862,
+    "red": 0.9450980392156862
+  },
+  "do_objectID": "E82869FA-20C6-4D53-A03C-A045F8884D52",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 911,
+    "width": 360,
+    "x": 3552,
+    "y": 1867
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F80DB6E3-CA48-42A1-BEF9-5F405635CA3C"
+    },
+    {
+      "class": "group",
+      "id": "7DA3144D-2BB1-43C7-A271-B314513AF91A"
+    },
+    {
+      "class": "text",
+      "id": "CD21A401-FD2E-429E-BBB9-124BCFDEE26D"
+    },
+    {
+      "class": "text",
+      "id": "0F428078-BC16-4763-8B31-5E85926316B4"
+    },
+    {
+      "class": "group",
+      "id": "4674AE46-6EF7-4DFB-A747-4FC659A3649D"
+    },
+    {
+      "class": "group",
+      "id": "400A91B2-89A3-45AE-86BD-CFCE851BFF1D"
+    },
+    {
+      "class": "group",
+      "id": "42D90792-B934-42D2-B7AB-BD8F634A32FD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BC43337E-F1E9-40EB-B014-327A8D36F0B8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9C03FE35-BBBA-4943-B01E-E04BAB2F3A37"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4DFE9884-67A3-4B41-9F29-997D49D5CA64"
+    },
+    {
+      "class": "group",
+      "id": "D89040A9-CED3-42CC-8539-502AD36F7EF0"
+    },
+    {
+      "class": "group",
+      "id": "C25A511C-4F30-47A4-902A-0C223080C046"
+    },
+    {
+      "class": "group",
+      "id": "B80747D8-2075-416E-A8E2-DAFDBA537E3F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FB093868-F35E-473A-8486-8D1CD2CD900A"
+    },
+    {
+      "class": "group",
+      "id": "2A510ED0-4CA5-460B-83AB-85A3BAC6FC25"
+    },
+    {
+      "class": "text",
+      "id": "B8AC0ACB-C788-4E64-A984-4BD83497AB27"
+    },
+    {
+      "class": "group",
+      "id": "CABA8DA5-C0EF-4A7F-AAE7-39830018EF87"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8A61CC55-2178-48F3-A715-3466FED242F3"
+    },
+    {
+      "class": "text",
+      "id": "17233037-01C5-4178-B742-AE124D839D4B"
+    },
+    {
+      "class": "group",
+      "id": "81FF1300-E537-404F-8EF4-C7E18FC435B8"
+    },
+    {
+      "class": "text",
+      "id": "E85DC597-DF2A-483E-90D8-6CE1F220A2AB"
+    },
+    {
+      "class": "text",
+      "id": "CDA0EFB0-A89A-4F07-B0B7-1B5485003B45"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 119,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 1,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 3,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 360
+  },
+  "name": "天宏钱包-身份等级",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "included": 1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

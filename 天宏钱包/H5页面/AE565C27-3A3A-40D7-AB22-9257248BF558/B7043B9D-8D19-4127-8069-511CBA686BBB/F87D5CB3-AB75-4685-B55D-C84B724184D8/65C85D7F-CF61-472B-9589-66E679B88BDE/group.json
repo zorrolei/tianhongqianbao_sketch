@@ -1,0 +1,54 @@
+{
+  "_class": "group",
+  "do_objectID": "65C85D7F-CF61-472B-9589-66E679B88BDE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 13.66666666666667,
+    "width": 8.666666666666666,
+    "x": 301.5,
+    "y": 5
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1940A9A6-E46E-47EB-9D36-B827FFFF418A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A7F7676C-E896-487D-B53E-20AE0F40463E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "698C1C96-E8D1-4930-B70A-2A62A2439EEB"
+    }
+  ],
+  "name": "电池",
+  "nameIsFixed": true,
+  "originalObjectID": "427210E2-36E6-49BB-A689-06BDAB4E126F",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

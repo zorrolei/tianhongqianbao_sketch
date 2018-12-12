@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "1DD5C2DB-9536-4BC1-B82B-90188B24B3EB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 40,
+    "x": 939,
+    "y": 403
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "slice",
+      "id": "FDC75DE7-1F2A-48C5-9E20-5EDF44AA7C52"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8BAE3499-3AE8-4AD6-86C2-3CC6CD614167"
+    },
+    {
+      "class": "group",
+      "id": "5CF5F640-20F9-440C-82CB-B665116B15BC"
+    }
+  ],
+  "name": "icon_bank_default",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

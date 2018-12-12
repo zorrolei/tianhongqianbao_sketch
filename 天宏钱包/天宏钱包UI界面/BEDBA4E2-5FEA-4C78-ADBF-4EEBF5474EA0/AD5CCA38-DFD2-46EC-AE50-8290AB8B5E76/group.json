@@ -1,0 +1,54 @@
+{
+  "_class": "group",
+  "do_objectID": "AD5CCA38-DFD2-46EC-AE50-8290AB8B5E76",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 27,
+    "width": 30,
+    "x": 387,
+    "y": 226
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "slice",
+      "id": "75FE2363-F6AA-4FD0-B63F-DBAE456D9F2A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "63BD0E11-0910-4479-BC85-9CF0FF2C7A06"
+    },
+    {
+      "class": "group",
+      "id": "183E3413-F6C7-4E3C-9BDB-F965961CE5EF"
+    }
+  ],
+  "name": "icon_lever_my",
+  "nameIsFixed": true,
+  "originalObjectID": "8E66E0EF-542B-4584-B926-ED8167E8FF58",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

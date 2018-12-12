@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "3CE548BB-4F1E-4437-8290-03928F672990",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 80,
+    "width": 360,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A6D326A1-8BE5-4A24-98D5-6C0CE755D5B4"
+    },
+    {
+      "class": "group",
+      "id": "D9C8E5F8-7D27-429E-832B-2E60BF6DDA17"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2388D5A5-09EC-469B-A8B2-0F7FDB358D6D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "62872D54-7C14-44CB-8769-B3F4B57529F8"
+    }
+  ],
+  "name": "广告背景",
+  "nameIsFixed": true,
+  "originalObjectID": "3CE548BB-4F1E-4437-8290-03928F672990",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

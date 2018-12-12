@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "do_objectID": "B765928A-27D4-48BC-A875-833B361C4309",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 16.271714922049,
+    "width": 26,
+    "x": 7,
+    "y": 12
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "CEFD4B04-CAB8-49CB-95EA-54AC91E6A116"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5F545AB9-489A-412B-869B-09EE87443D32"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5D97E9AE-82F0-4024-A573-8BA89475F0CB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "ACF0FF27-9A26-4D95-AA45-7BAD0CE00F19"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DFA55BE7-2045-4621-8726-A28546C44315"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E1846783-FD63-4243-8F25-0E0998A2BCD7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "40B05392-F794-4678-A50C-819DEBD51190"
+    }
+  ],
+  "name": "银联",
+  "nameIsFixed": false,
+  "originalObjectID": "B765928A-27D4-48BC-A875-833B361C4309",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "06CE60BB-9485-4C72-BB9D-34F2B1FC3A5A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 40,
+    "x": 1137,
+    "y": 303
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "slice",
+      "id": "9242BD38-53F5-4ED1-B228-5AC0B860BA11"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "892E88DA-5659-4F8B-8709-AA4967789D66"
+    },
+    {
+      "class": "group",
+      "id": "A5366D9E-7E98-4CA1-B735-F0B7CEB99E74"
+    }
+  ],
+  "name": "icon_bank_minsheng",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

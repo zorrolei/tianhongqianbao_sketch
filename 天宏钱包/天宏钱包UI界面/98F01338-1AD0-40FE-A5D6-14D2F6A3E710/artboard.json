@@ -1,0 +1,155 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9450980392156862,
+    "green": 0.9450980392156862,
+    "red": 0.9450980392156862
+  },
+  "do_objectID": "98F01338-1AD0-40FE-A5D6-14D2F6A3E710",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 640,
+    "width": 360,
+    "x": 1712,
+    "y": 1867
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "321E7D28-6E67-4C4E-93CF-8F8B06246B29"
+    },
+    {
+      "class": "group",
+      "id": "5E949C68-9794-4F34-B0BE-577C12DF97C5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6188640A-ADD7-4CEF-B50C-C54D7AF909E8"
+    },
+    {
+      "class": "group",
+      "id": "9BF59769-2228-466B-881E-0BF82A4E86DA"
+    },
+    {
+      "class": "group",
+      "id": "F28481F8-E0F5-4CFA-B7AA-AB42F5085F9A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "808CC62E-45F2-47C7-BC74-E7D4F6D15222"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DA86EE09-3EE2-4BB9-8D39-5DB0049D143E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B582A081-743F-4864-BBAF-9D840110521B"
+    },
+    {
+      "class": "group",
+      "id": "80129E66-5EC9-46B7-B024-3D2A0873DDC3"
+    },
+    {
+      "class": "text",
+      "id": "908F65F6-D3F1-43C5-95DD-D6157BBBC6F6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BAA2714B-3BF9-4CC4-8859-380B9BD5E850"
+    },
+    {
+      "class": "group",
+      "id": "E9A16DC5-CDC1-4121-A1E4-09963F7604D4"
+    },
+    {
+      "class": "group",
+      "id": "5A8D2AFC-DCCC-48ED-9FA1-5D542AB69EBE"
+    },
+    {
+      "class": "group",
+      "id": "D5B00C8D-A01B-47FB-9B14-9BF590F2AC8F"
+    },
+    {
+      "class": "text",
+      "id": "35713F71-F4E7-4419-BD45-0658A0C78E71"
+    },
+    {
+      "class": "text",
+      "id": "ED07CB03-85D3-48E6-A5BC-6015B5BFE29D"
+    }
+  ],
+  "name": "天宏钱包-余额提现",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

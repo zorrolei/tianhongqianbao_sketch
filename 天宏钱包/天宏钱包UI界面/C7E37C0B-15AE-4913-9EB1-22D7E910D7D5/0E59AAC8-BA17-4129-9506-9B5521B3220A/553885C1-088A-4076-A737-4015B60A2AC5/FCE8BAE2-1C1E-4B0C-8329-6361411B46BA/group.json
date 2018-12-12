@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "FCE8BAE2-1C1E-4B0C-8329-6361411B46BA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 61,
+    "width": 294,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B842A1EA-F2A2-4EF3-B5A3-C94A4D72DDEF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BD9148FA-10BB-4B63-A118-B5F2DF75CC88"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0985A630-646B-40E8-AAA2-23FA707A47BF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "07B57BDE-605C-4BCD-9F98-F2EEE213EC2F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "21E60FEF-2D79-4D67-A46A-4262A20DAEE1"
+    }
+  ],
+  "name": "支付成功旗帜背景",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

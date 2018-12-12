@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "5B7DF1AF-3844-4F94-89F9-E8C15DAE15DD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 25,
+    "width": 30,
+    "x": 5,
+    "y": 6
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "CE129D6B-3F58-4FF3-9BDE-E07CDA72C9A5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "250A2C56-1441-4241-9EFF-578B2D74AACD"
+    }
+  ],
+  "name": "平安银行",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

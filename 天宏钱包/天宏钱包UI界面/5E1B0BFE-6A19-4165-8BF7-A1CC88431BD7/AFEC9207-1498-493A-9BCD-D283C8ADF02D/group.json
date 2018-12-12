@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "AFEC9207-1498-493A-9BCD-D283C8ADF02D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 103,
+    "width": 340,
+    "x": 10,
+    "y": 220
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A76BA23A-63B4-4B8C-B4C8-FEEA1EA2D44E"
+    },
+    {
+      "class": "group",
+      "id": "0BA7EA80-5CC9-4BFB-91F2-68559D53649D"
+    },
+    {
+      "class": "group",
+      "id": "A78B58EB-5155-45D2-9EFA-27485631B4D3"
+    },
+    {
+      "class": "group",
+      "id": "13715C33-9E2A-42D4-A6F4-C9AFC12FD0E2"
+    }
+  ],
+  "name": "收款功能组",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

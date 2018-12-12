@@ -1,0 +1,188 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9450980392156862,
+    "green": 0.9450980392156862,
+    "red": 0.9450980392156862
+  },
+  "do_objectID": "DF9A4AAA-5623-4680-86AD-7EC9C84E90BA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 819,
+    "width": 360,
+    "x": 1252,
+    "y": 1867
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "DF671BA7-FE57-44E8-A47A-08D2136D1E88"
+    },
+    {
+      "class": "group",
+      "id": "6B8FC173-8303-442E-B02D-1258125E3BF0"
+    },
+    {
+      "class": "text",
+      "id": "0552CA2D-74C1-4FA2-97CE-8D18E0D8F2E5"
+    },
+    {
+      "class": "text",
+      "id": "0082815F-24ED-48A8-A11F-22AC29B8DB25"
+    },
+    {
+      "class": "group",
+      "id": "61F2F027-9680-4615-81D6-E89D0613B69A"
+    },
+    {
+      "class": "text",
+      "id": "E136A331-797E-45EF-B422-D7FF79B1970D"
+    },
+    {
+      "class": "group",
+      "id": "2FCEB9AB-2A02-44FF-9A09-C40E79586B44"
+    },
+    {
+      "class": "group",
+      "id": "519E6EA7-FD51-4889-B3BA-314062160F02"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "12EA90B2-5B80-403D-9542-50E08373DC55"
+    },
+    {
+      "class": "group",
+      "id": "EF31D10E-2B63-41F0-B239-97EDE131E0F1"
+    },
+    {
+      "class": "group",
+      "id": "ADA0E3C8-7AB1-4BF6-958C-680B3A468F69"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D34C075B-20D5-46D9-9B60-1136D482D019"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "502FB8CF-BACA-4106-9DFF-649D5353F89B"
+    },
+    {
+      "class": "group",
+      "id": "E4217A9B-B26B-49E0-A681-799244FB60D2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E679B5CD-606D-4F64-97CE-DE6612318E61"
+    },
+    {
+      "class": "group",
+      "id": "05CDFAD9-80EC-4BB5-84FD-AF7AECC545E9"
+    },
+    {
+      "class": "group",
+      "id": "8AA50590-13DE-411F-B8ED-AF678C4BBF91"
+    },
+    {
+      "class": "group",
+      "id": "65649A3E-BE02-4038-A6A1-4A813B836696"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "38F21557-4F08-4F83-8862-DD327062162B"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 30,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 4,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 360
+  },
+  "name": "天宏钱包",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

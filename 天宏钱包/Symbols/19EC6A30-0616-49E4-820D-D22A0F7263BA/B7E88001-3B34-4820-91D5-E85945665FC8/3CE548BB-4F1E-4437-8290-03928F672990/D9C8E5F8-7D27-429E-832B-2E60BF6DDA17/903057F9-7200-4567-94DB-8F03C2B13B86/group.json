@@ -1,0 +1,92 @@
+{
+  "_class": "group",
+  "do_objectID": "903057F9-7200-4567-94DB-8F03C2B13B86",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 11.82398864442867,
+    "width": 20.71682340647858,
+    "x": 15.95820271682341,
+    "y": 22.7792760823279
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "39EF5AA3-5B1D-4D38-94BA-4143D7FF170A"
+    },
+    {
+      "class": "bitmap",
+      "id": "85C3888E-528A-4F0D-9434-498529FA658D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6AAB5C3D-B425-4259-8390-7EDA1CE022B2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8AE40A22-FC36-42DC-8BFE-BDE4FC05E007"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B05FED7B-F4DC-425F-81BC-A5BCF944E6E3"
+    },
+    {
+      "class": "bitmap",
+      "id": "A20E7339-0047-465B-91E4-E51A182ED0A9"
+    }
+  ],
+  "name": "组_3",
+  "nameIsFixed": false,
+  "originalObjectID": "903057F9-7200-4567-94DB-8F03C2B13B86",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 0.48,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

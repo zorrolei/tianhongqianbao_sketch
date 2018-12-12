@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "5749C74C-AC72-4C08-B537-D43A1A5C60A1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 30,
+    "width": 104,
+    "x": 236,
+    "y": 177
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8D64DD7F-0483-4B2A-8DE4-45A03FF07B5A"
+    },
+    {
+      "class": "text",
+      "id": "7BE7912B-C2E3-46C3-9A82-051223B2FFAD"
+    }
+  ],
+  "name": "发送验证码按钮",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

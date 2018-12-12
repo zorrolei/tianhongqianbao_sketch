@@ -1,0 +1,50 @@
+{
+  "_class": "group",
+  "do_objectID": "1640AB31-1F4C-4BCF-BEDA-F745FBEF8A3F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 38,
+    "width": 35,
+    "x": 7,
+    "y": 5
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "37A8339E-07BB-4F8E-9938-81E7C7400A5F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "727C268E-D3A8-4ECF-AF7A-02BF5A94EA96"
+    }
+  ],
+  "name": "极速收款",
+  "nameIsFixed": true,
+  "originalObjectID": "1640AB31-1F4C-4BCF-BEDA-F745FBEF8A3F",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

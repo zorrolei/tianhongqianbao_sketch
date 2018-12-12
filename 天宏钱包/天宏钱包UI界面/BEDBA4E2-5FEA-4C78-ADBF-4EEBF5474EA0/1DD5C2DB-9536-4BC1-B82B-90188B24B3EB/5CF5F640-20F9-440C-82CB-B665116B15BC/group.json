@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "5CF5F640-20F9-440C-82CB-B665116B15BC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 42,
+    "width": 42,
+    "x": -1,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1C72A9B1-5D69-4B40-A388-6C87B1BC745D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5EEB416B-858F-4DA7-881F-F9BA4F6F416B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "812520DB-38D6-4032-A337-F451EF02FCC6"
+    }
+  ],
+  "name": "银行卡",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

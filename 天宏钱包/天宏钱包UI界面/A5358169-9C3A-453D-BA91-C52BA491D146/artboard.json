@@ -1,0 +1,181 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9450980392156862,
+    "green": 0.9450980392156862,
+    "red": 0.9450980392156862
+  },
+  "do_objectID": "A5358169-9C3A-453D-BA91-C52BA491D146",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 911,
+    "width": 360,
+    "x": 11360,
+    "y": 2901
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "87E07FB2-8119-47D6-9ACE-131F4AB3020B"
+    },
+    {
+      "class": "group",
+      "id": "6CDB9A32-A5CE-497B-8D40-8945E8F8FDB0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "384F7CFD-C48A-4294-9DE1-178DAFB58B47"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A6693106-36D1-46E6-AEBA-6E224D4F9A5E"
+    },
+    {
+      "class": "group",
+      "id": "B8CDCAC5-26AA-447D-9397-362FE6E08BFC"
+    },
+    {
+      "class": "group",
+      "id": "049F6818-5CB0-47A1-839B-ABFCDF67A9A0"
+    },
+    {
+      "class": "group",
+      "id": "F8BDAA5B-CDFE-4D90-8F8F-9A69AB104694"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9CBB9E4C-8218-4168-BCDF-D0F42E84C82B"
+    },
+    {
+      "class": "group",
+      "id": "BA576C8C-F106-4D9F-B23E-3748E34B8063"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "78D68E07-3DD3-4BB6-A49A-DAB3909B54C6"
+    },
+    {
+      "class": "group",
+      "id": "C0E467FE-34AB-40F8-98C0-BE71537E2673"
+    },
+    {
+      "class": "group",
+      "id": "701B55ED-EF4C-454B-AA5B-76A0C252487A"
+    },
+    {
+      "class": "group",
+      "id": "925B605D-0306-4BC6-9AB3-949223933EE0"
+    },
+    {
+      "class": "text",
+      "id": "E3C37E96-0B85-4986-BFB2-B649F492B526"
+    },
+    {
+      "class": "text",
+      "id": "DCF411E0-9B52-4701-B5CB-B17229A8A1A2"
+    },
+    {
+      "class": "text",
+      "id": "7AE1C114-7725-4A2B-8927-3D2AD549EA33"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 179,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 1,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 2,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 360
+  },
+  "name": "会员中心-身份认证 copy",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": 3
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

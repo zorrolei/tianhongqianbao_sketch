@@ -1,0 +1,132 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "2127E4B1-D90B-45B7-8835-1BD5B40FF9C2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 640,
+    "width": 360,
+    "x": 4932,
+    "y": 1017
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "5B5C74D0-5FF8-4978-9259-1DF47001DA74"
+    },
+    {
+      "class": "group",
+      "id": "0249BBC8-8C18-4162-ADBB-9375EB524E76"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4511C633-F06F-47EE-ABF6-C5DDE3C7CE9C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "138B5E92-85A3-4B6C-933E-22BDA6321D24"
+    },
+    {
+      "class": "group",
+      "id": "56484AB7-CE2E-4B9B-83E6-A6B1215BD41E"
+    },
+    {
+      "class": "group",
+      "id": "E8F444F6-72E7-495F-B49E-4415D8D02504"
+    },
+    {
+      "class": "group",
+      "id": "18C02EC7-30E8-45CA-91BB-7FFA9D4603F6"
+    },
+    {
+      "class": "group",
+      "id": "B8CB4537-D10F-492E-B58B-ADDA8400A3C3"
+    },
+    {
+      "class": "group",
+      "id": "4D4A689F-03A9-4C1C-8E87-91FFA9EC7144"
+    }
+  ],
+  "name": "更换信用卡",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "included": 1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

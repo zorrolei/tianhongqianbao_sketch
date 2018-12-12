@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "929B888C-3BA9-46F8-B728-849A0491CD3B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 40,
+    "x": 939,
+    "y": 353
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "slice",
+      "id": "9E322978-C230-4869-9C35-47265E9FE1E4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EB450750-1753-43D5-ACD3-CC9EE2CD01E4"
+    },
+    {
+      "class": "group",
+      "id": "5B7DF1AF-3844-4F94-89F9-E8C15DAE15DD"
+    }
+  ],
+  "name": "icon_bank_pingan",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

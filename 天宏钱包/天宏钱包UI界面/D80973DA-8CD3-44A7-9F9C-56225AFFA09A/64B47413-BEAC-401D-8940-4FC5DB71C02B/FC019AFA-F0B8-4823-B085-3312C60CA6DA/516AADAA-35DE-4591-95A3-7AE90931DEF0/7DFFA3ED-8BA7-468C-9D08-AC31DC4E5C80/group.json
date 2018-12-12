@@ -1,0 +1,87 @@
+{
+  "_class": "group",
+  "do_objectID": "7DFFA3ED-8BA7-468C-9D08-AC31DC4E5C80",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 43,
+    "width": 22,
+    "x": 23,
+    "y": 18
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "731A82E9-66C4-47F9-AFDC-7DCED4839890"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EB1BE1F2-8525-4B7A-A466-8BA9400330F5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5F6D7008-BF4E-4138-BB6F-65DD386391FC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7B5BEE1A-395F-478D-9155-56741C864346"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E83737AE-8A60-4221-9144-E202D53EC0DC"
+    }
+  ],
+  "name": "拿手机手臂",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 2,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

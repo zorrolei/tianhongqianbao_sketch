@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "79858EBB-A804-4388-B482-9167110211D1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 116,
+    "width": 340,
+    "x": 10,
+    "y": 429
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "B5552F21-1D85-49E2-9BC2-A57FD200B931"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9FA4FEC0-1A31-4A28-BF4E-6F0D636B8C88"
+    },
+    {
+      "class": "text",
+      "id": "E1AF7240-F8C3-48C2-B07A-6022C39F3F74"
+    },
+    {
+      "class": "text",
+      "id": "1FAB7C1F-7C22-443D-8AE2-232A3826FF9C"
+    }
+  ],
+  "name": "分享广告",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

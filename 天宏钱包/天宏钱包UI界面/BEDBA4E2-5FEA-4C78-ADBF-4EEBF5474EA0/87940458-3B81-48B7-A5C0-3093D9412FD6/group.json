@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "87940458-3B81-48B7-A5C0-3093D9412FD6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 40,
+    "x": 1203,
+    "y": 303
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "slice",
+      "id": "CD4F5693-EA61-4E53-9F50-CD2B8F8DA92D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8F1EA854-88E9-48D6-ACA7-ABDC8F819587"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9FEA0B82-2E3C-4027-842C-5892A823E24A"
+    }
+  ],
+  "name": "icon_bank_xingye",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

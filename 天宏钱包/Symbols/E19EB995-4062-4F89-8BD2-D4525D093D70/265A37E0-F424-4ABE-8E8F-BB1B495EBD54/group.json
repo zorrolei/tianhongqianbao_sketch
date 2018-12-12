@@ -1,0 +1,46 @@
+{
+  "_class": "group",
+  "do_objectID": "265A37E0-F424-4ABE-8E8F-BB1B495EBD54",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 12,
+    "width": 22,
+    "x": 4,
+    "y": 9
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1E513988-FB58-45CD-B508-EB75B7FCE82C"
+    }
+  ],
+  "name": "眼睛_1",
+  "nameIsFixed": false,
+  "originalObjectID": "265A37E0-F424-4ABE-8E8F-BB1B495EBD54",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

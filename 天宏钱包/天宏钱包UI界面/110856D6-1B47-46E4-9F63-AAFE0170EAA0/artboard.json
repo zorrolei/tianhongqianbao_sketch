@@ -1,0 +1,175 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9450980392156862,
+    "green": 0.9450980392156862,
+    "red": 0.9450980392156862
+  },
+  "do_objectID": "110856D6-1B47-46E4-9F63-AAFE0170EAA0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 640,
+    "width": 360,
+    "x": 5392,
+    "y": 1867
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "598652C9-33D1-4106-B47B-D04D113722BC"
+    },
+    {
+      "class": "text",
+      "id": "F0A8DCF2-2EE2-4785-9254-65F86E4186C4"
+    },
+    {
+      "class": "text",
+      "id": "1D43EBD5-E5AA-4045-8124-A824FC408A7C"
+    },
+    {
+      "class": "text",
+      "id": "50771128-49D6-4697-ABC5-FA0302A32EFD"
+    },
+    {
+      "class": "text",
+      "id": "D1161FC8-18AD-485C-A376-17B2D39F3A03"
+    },
+    {
+      "class": "group",
+      "id": "F55B8F27-5BE7-40CE-8055-EE8A123A177B"
+    },
+    {
+      "class": "group",
+      "id": "9852F3A0-42E9-41C7-9CB9-B33FF5AAFD27"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0D562E15-231F-45F9-B7D2-BCBFB2D263B4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "39892DF0-AE08-42EA-8E67-E30808437146"
+    },
+    {
+      "class": "group",
+      "id": "CEEA6441-164C-4649-B121-C6E5E3166BEA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1510C67E-31F0-49E7-B50D-7E8C37E56319"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "81A05E25-1845-44FC-8209-2CDB13C04725"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3BA2B312-F113-4B6B-89F0-EBBA285093DC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7356C7E8-66E8-4EA9-87B3-329F97B00886"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5FFA7EF4-BE69-4ABA-88C7-E8E8799F8CC3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6590E420-953A-499D-8D44-9013F528E517"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0379C8F4-B2A8-46F3-9344-553CDB3E1077"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "70F44EDD-8BBE-476C-AACC-4E7BBA4F33E6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C93C1D8D-FA09-4FDF-920A-F7197CC2CF2C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "486B60DD-F038-4526-82CC-C72F26B8368D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "57BE59D3-3676-4C30-8451-5F57CD86AD73"
+    }
+  ],
+  "name": "天宏钱包-旗下商户统计-商户详情-未认证",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

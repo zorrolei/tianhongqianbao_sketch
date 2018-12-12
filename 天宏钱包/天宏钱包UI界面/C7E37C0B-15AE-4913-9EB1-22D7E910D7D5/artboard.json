@@ -1,0 +1,131 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9450980392156862,
+    "green": 0.9450980392156862,
+    "red": 0.9450980392156862
+  },
+  "do_objectID": "C7E37C0B-15AE-4913-9EB1-22D7E910D7D5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 640,
+    "width": 360,
+    "x": 3092,
+    "y": 1017
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "830F0C2F-592C-47EE-95CB-859977ABF2B1"
+    },
+    {
+      "class": "group",
+      "id": "023F4D06-AC3B-4C6F-8286-6B7F530F1976"
+    },
+    {
+      "class": "group",
+      "id": "E2724BF6-28E7-459F-B9A8-A6DA6A35ACDC"
+    },
+    {
+      "class": "group",
+      "id": "E915B8FF-F9B8-4DD2-867E-D85231E7D7AB"
+    },
+    {
+      "class": "group",
+      "id": "C0961292-0837-4BF8-A106-78CD612287E0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8DA0A727-92EA-4A80-BE8B-576482D59FE3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E88988B1-90D0-42B2-B25A-5842C545939C"
+    },
+    {
+      "class": "group",
+      "id": "0E59AAC8-BA17-4129-9506-9B5521B3220A"
+    },
+    {
+      "class": "text",
+      "id": "87F314D0-A686-42A5-B8D2-51104325C6B3"
+    },
+    {
+      "class": "text",
+      "id": "DAEF2CFB-CCCA-43FF-ABF2-83227E034515"
+    }
+  ],
+  "name": "支付成功",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

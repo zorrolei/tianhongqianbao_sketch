@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "do_objectID": "1441552F-2C11-4945-A0D1-AB82ED3ACC3B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 360,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C4D8F4C1-92A5-46B4-98DC-B69ECD997002"
+    },
+    {
+      "class": "group",
+      "id": "347B5D7F-1892-49A9-93F6-B9A5F4090005"
+    },
+    {
+      "class": "text",
+      "id": "15C122EF-80C3-4C3F-A439-5F78596F301B"
+    },
+    {
+      "class": "group",
+      "id": "468769CD-6020-4D42-9475-CF3A5AF39C50"
+    },
+    {
+      "class": "group",
+      "id": "543C7E40-1E36-4326-9711-171FA0EBFFCC"
+    }
+  ],
+  "name": "时间及电量",
+  "nameIsFixed": true,
+  "originalObjectID": "8FF273AD-4DC4-426F-BBC6-2158023BF49B",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 3.333333333333333,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "_class": "group",
+  "do_objectID": "741CF707-7D16-41F1-AA9E-29097F7E90E4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 18.66666666666666,
+    "width": 3.333333333333333,
+    "x": 330.3333333333333,
+    "y": 38.66666666666666
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9D5EC016-3C68-4BFC-BE0D-7D341035BEA7"
+    }
+  ],
+  "name": "搜索icon",
+  "nameIsFixed": true,
+  "originalObjectID": "DFAE2CA0-3B52-4CDA-9F77-0B2518FD5B48",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 3.333333333333333,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

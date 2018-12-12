@@ -1,0 +1,163 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9450980392156862,
+    "green": 0.9450980392156862,
+    "red": 0.9450980392156862
+  },
+  "do_objectID": "1F36E880-763D-4F90-8F8D-C188FBF7ED2D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 725,
+    "width": 360,
+    "x": 5392,
+    "y": 1017
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D7DC72AC-0BAB-4BB2-A4B4-6C2C4E4278C6"
+    },
+    {
+      "class": "group",
+      "id": "9B1C730C-95C6-428A-B8E3-50C99C141032"
+    },
+    {
+      "class": "group",
+      "id": "77983918-B134-49CD-8B69-83AD6972C5CC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D9611B69-F187-4D92-A548-18836149BA8B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5FCED25D-09DF-4FA7-9CE2-55448AF3005F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "951350CC-B47A-4C7A-8FF3-021EFCFE3BB4"
+    },
+    {
+      "class": "group",
+      "id": "9295A4AB-44B5-41D6-BF94-8359D13F60B2"
+    },
+    {
+      "class": "group",
+      "id": "4453FC87-EE63-4DDF-A869-A75527D03C8A"
+    },
+    {
+      "class": "group",
+      "id": "F87DDBBA-2C9D-4316-9E64-EBDD2536C219"
+    },
+    {
+      "class": "group",
+      "id": "7381A612-EA9E-424A-97E7-945A3AC5DF12"
+    },
+    {
+      "class": "group",
+      "id": "6AE9809D-AE98-46EE-A16A-8E31B034F189"
+    },
+    {
+      "class": "group",
+      "id": "5FA6EDEB-DAA0-428B-B74D-E793404EF2ED"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8015F071-E3BD-4356-87D3-4F7D7FA43D0D"
+    },
+    {
+      "class": "text",
+      "id": "79810B88-E78A-4726-B0C6-AA3C69D19F80"
+    },
+    {
+      "class": "group",
+      "id": "69863DE2-07C2-47C0-8B28-BD49E078B9F4"
+    },
+    {
+      "class": "text",
+      "id": "6155B582-2943-415A-8498-DE7192DDD4B8"
+    },
+    {
+      "class": "text",
+      "id": "16101ACB-4A16-4657-81A3-D7019BE69140"
+    },
+    {
+      "class": "group",
+      "id": "938063D8-AF10-4D7B-A4D7-DEDEDDD17EB3"
+    }
+  ],
+  "name": "添加信用卡",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

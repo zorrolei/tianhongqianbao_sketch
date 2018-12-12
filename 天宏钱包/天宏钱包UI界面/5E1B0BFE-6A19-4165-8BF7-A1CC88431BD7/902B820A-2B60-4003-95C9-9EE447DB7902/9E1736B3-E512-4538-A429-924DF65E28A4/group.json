@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "9E1736B3-E512-4538-A429-924DF65E28A4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 8,
+    "width": 47,
+    "x": 157,
+    "y": 121
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "505801BE-81B1-4E6B-BB79-EA47D0197B48"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "753D836E-B3F4-4BAC-B083-F1C51707837E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AF780E80-2253-473B-A078-890AC1FF17A9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CE2B4085-F943-4375-86EE-3CE4221A0480"
+    }
+  ],
+  "name": "轮播点",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

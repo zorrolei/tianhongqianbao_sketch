@@ -1,0 +1,46 @@
+{
+  "_class": "group",
+  "do_objectID": "652ED9A6-9E99-4ECE-B0E7-0DB17B232877",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 26,
+    "width": 23,
+    "x": 4,
+    "y": 2
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B75C85FB-504B-4AFA-803E-DF10AC543F30"
+    }
+  ],
+  "name": "费率电价-V1",
+  "nameIsFixed": false,
+  "originalObjectID": "652ED9A6-9E99-4ECE-B0E7-0DB17B232877",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "01436A8B-0432-42B3-AA2D-6D663CBEF427",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 29.93354767184035,
+    "width": 20.91525498891352,
+    "x": 0.01902439024390253,
+    "y": 0.03322616407982269
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "7A3AB499-FAD9-45F8-9760-7D6DB3FBB6AF"
+    },
+    {
+      "class": "shapePath",
+      "id": "C628AD35-D05C-49D0-998A-197CC3F5B825"
+    },
+    {
+      "class": "shapePath",
+      "id": "EE14BFFA-2F73-49D5-A87B-DECC10595A0D"
+    },
+    {
+      "class": "shapePath",
+      "id": "53CC3ACE-C8B1-4DFF-A1BF-0E8E05DF5F09"
+    },
+    {
+      "class": "shapePath",
+      "id": "B247B99B-B095-49B5-882F-B16D8C0C0504"
+    },
+    {
+      "class": "shapePath",
+      "id": "5992D842-300D-4279-B9D5-BAD557FD9A0E"
+    },
+    {
+      "class": "shapePath",
+      "id": "93E539C4-260B-4ACE-8FB7-318A67D4160C"
+    },
+    {
+      "class": "shapePath",
+      "id": "97EB74F7-F956-48DC-B60D-68AB956C09B2"
+    },
+    {
+      "class": "shapePath",
+      "id": "F9DBCB63-DDA7-48E4-B85A-DBF07C661DA6"
+    },
+    {
+      "class": "shapePath",
+      "id": "935EF908-2F99-4F85-8A7D-04FACC32C18D"
+    },
+    {
+      "class": "shapePath",
+      "id": "AD3BE774-573B-4592-9F0A-370603006054"
+    },
+    {
+      "class": "shapePath",
+      "id": "1E88C7A8-74D0-44A7-9CAA-E45E65BE4C66"
+    }
+  ],
+  "name": "Shape",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 0
+}

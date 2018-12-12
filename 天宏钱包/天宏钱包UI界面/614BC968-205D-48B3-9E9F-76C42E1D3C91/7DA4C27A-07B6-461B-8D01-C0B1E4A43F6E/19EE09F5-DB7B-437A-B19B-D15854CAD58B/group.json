@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "19EE09F5-DB7B-437A-B19B-D15854CAD58B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 215,
+    "width": 204,
+    "x": 33,
+    "y": 10
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "515749B5-D6B0-4FE9-B92D-357922A8F7C8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D9D22804-82EB-4061-9AED-1723C73B427B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "718468B6-A8DE-47CD-B280-63FDB5401DE9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C58155CC-9F48-48CC-BF9D-5BF32DA6A9B6"
+    },
+    {
+      "class": "group",
+      "id": "08933E2C-F459-414D-840A-6D04660A1B98"
+    },
+    {
+      "class": "group",
+      "id": "1BD7F8D9-8AC2-4D21-A039-8F350E815D8A"
+    }
+  ],
+  "name": "成功插画",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

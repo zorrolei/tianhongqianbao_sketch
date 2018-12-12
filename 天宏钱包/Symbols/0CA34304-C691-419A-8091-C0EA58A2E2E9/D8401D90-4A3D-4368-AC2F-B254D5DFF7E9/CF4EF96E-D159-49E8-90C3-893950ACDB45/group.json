@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "CF4EF96E-D159-49E8-90C3-893950ACDB45",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 84,
+    "width": 108,
+    "x": 0,
+    "y": 59.11650485436893
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "E0F51C5A-289F-435D-B158-418D61D17885"
+    },
+    {
+      "class": "group",
+      "id": "8E272349-2ABD-407C-B645-C9A9CF795DB6"
+    }
+  ],
+  "name": "身体",
+  "nameIsFixed": true,
+  "originalObjectID": "CF4EF96E-D159-49E8-90C3-893950ACDB45",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 7,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

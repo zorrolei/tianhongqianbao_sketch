@@ -1,0 +1,133 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "0BCC4E28-83F1-4817-849B-F646EE3C49B2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 640,
+    "width": 360,
+    "x": 2172,
+    "y": 287
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "52DF85C9-DE6C-4491-95AB-42FD12A38CD6"
+    },
+    {
+      "class": "group",
+      "id": "D341B908-F29D-4D67-BEEA-83C4617EA131"
+    },
+    {
+      "class": "group",
+      "id": "0FB52A64-D27C-4723-9A9F-C0EA99EC7ABE"
+    },
+    {
+      "class": "group",
+      "id": "88B012E0-8140-4698-9CB4-E468DC17216C"
+    },
+    {
+      "class": "group",
+      "id": "7A6817D5-6069-426C-80A8-DBA2DA03C687"
+    },
+    {
+      "class": "group",
+      "id": "838A40DB-9CC8-4CE7-8CCD-311B62AE230D"
+    },
+    {
+      "class": "group",
+      "id": "71FAE46C-D7E9-4BDC-A1F4-79840775C8BB"
+    },
+    {
+      "class": "group",
+      "id": "0B61A363-EF50-4146-A0F5-793A056905D0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AC947365-BEBD-4838-9A3E-D77F4FBFD533"
+    },
+    {
+      "class": "group",
+      "id": "AB221689-E710-43C9-976D-666022C99BD3"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 30,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 4,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 360
+  },
+  "name": "注册-注册成功",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "included": 1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

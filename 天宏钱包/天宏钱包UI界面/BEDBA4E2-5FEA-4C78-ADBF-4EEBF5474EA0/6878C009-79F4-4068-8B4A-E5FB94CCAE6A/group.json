@@ -1,0 +1,102 @@
+{
+  "_class": "group",
+  "do_objectID": "6878C009-79F4-4068-8B4A-E5FB94CCAE6A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 297,
+    "width": 360,
+    "x": 0,
+    "y": 343
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5D8BA716-AC83-4E73-9D87-95936778C456"
+    },
+    {
+      "class": "group",
+      "id": "A26CACA0-0757-42AE-ABD6-C45F07761CD8"
+    },
+    {
+      "class": "group",
+      "id": "2E1CDA23-BBA2-4A46-9625-D6ED3CA6E711"
+    },
+    {
+      "class": "group",
+      "id": "721582BF-43A9-4B63-AE91-44FB89C8B970"
+    },
+    {
+      "class": "group",
+      "id": "67A84B6A-1B05-48A2-83C8-E385F57FF95A"
+    },
+    {
+      "class": "group",
+      "id": "3014C0A3-B99D-4486-8841-95883A2490AB"
+    },
+    {
+      "class": "group",
+      "id": "6ED781CA-F287-4399-86AE-BFBDC18A16FE"
+    },
+    {
+      "class": "group",
+      "id": "5BC6E3DF-C1E0-4519-A795-86EE32F69A11"
+    },
+    {
+      "class": "group",
+      "id": "EE420169-C057-49E2-AA59-AA5C5DEF38CB"
+    },
+    {
+      "class": "group",
+      "id": "534B7FA7-61FA-4469-AA45-CFC8FACB57C3"
+    },
+    {
+      "class": "group",
+      "id": "67D50588-311E-4B3A-B505-C171A67ED6FD"
+    },
+    {
+      "class": "group",
+      "id": "D2AFB740-5389-404C-8B24-685B2A2B3E0E"
+    },
+    {
+      "class": "group",
+      "id": "C016E742-6A29-4B27-AE90-76085B33D687"
+    },
+    {
+      "class": "group",
+      "id": "8D4F52E0-314C-40F7-944D-FBCA9DD660A2"
+    },
+    {
+      "class": "group",
+      "id": "8E4B2720-5A24-46BF-9307-EDFEADED9873"
+    }
+  ],
+  "name": "数字键盘",
+  "nameIsFixed": true,
+  "originalObjectID": "15B0365D-AD36-4419-9A9C-26078ABFCCBF",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

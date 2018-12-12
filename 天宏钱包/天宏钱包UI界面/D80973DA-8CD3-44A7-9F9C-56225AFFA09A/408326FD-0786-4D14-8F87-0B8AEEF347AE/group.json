@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "408326FD-0786-4D14-8F87-0B8AEEF347AE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 44,
+    "width": 360,
+    "x": 0,
+    "y": 333
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D7909B93-437B-4F61-B986-8D6DB8AD6A81"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E2B8D8C8-AB5D-4192-917D-683CC7B30766"
+    },
+    {
+      "class": "slice",
+      "id": "A96BF001-7C54-4D19-ABEE-7DC4CDA513CC"
+    }
+  ],
+  "name": "公告",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

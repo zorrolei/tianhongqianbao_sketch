@@ -1,0 +1,135 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9450980392156862,
+    "green": 0.9450980392156862,
+    "red": 0.9450980392156862
+  },
+  "do_objectID": "8D49B96C-184D-41C7-BD46-4C25E6B4E703",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 700,
+    "width": 360,
+    "x": 4932,
+    "y": 1867
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "714DC4FB-6CAA-4DC0-A6BB-9353010864BE"
+    },
+    {
+      "class": "group",
+      "id": "92EC08F6-4C96-4D5B-A5A8-A699FB94EFB1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0A40F0E8-8170-4362-B6B0-C29FE2861671"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BBC4D85E-7FB8-4507-AA0F-355EB3FFF4BE"
+    },
+    {
+      "class": "group",
+      "id": "5363DA2A-EAD6-413A-9DA0-1778EED283CE"
+    },
+    {
+      "class": "group",
+      "id": "4D0D8A0D-7DA9-4216-8C4E-4723BEAB7E90"
+    },
+    {
+      "class": "group",
+      "id": "2465E4D3-DD86-416C-9EEA-39A978D456F5"
+    },
+    {
+      "class": "text",
+      "id": "AEBEAA70-5C1D-4FDC-805A-3C0E86F8D25A"
+    },
+    {
+      "class": "group",
+      "id": "84A70D1B-E740-401E-BE1F-C64A350D1E76"
+    },
+    {
+      "class": "text",
+      "id": "B387B95A-0E5B-4602-BE6B-662C8425EF5E"
+    },
+    {
+      "class": "text",
+      "id": "68271CDF-D2D9-459E-8EDC-5C80520F0B53"
+    }
+  ],
+  "name": "天宏钱包-旗下商户统计",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

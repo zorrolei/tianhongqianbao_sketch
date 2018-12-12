@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "77CB0BD1-69E9-45A1-9D64-90B78A1D35CC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 30,
+    "width": 310,
+    "x": 25,
+    "y": 375
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "45F28FBC-7F68-4E63-81ED-565803AA13B3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3426A0D3-295A-4D2F-90CE-19060B6E6F8D"
+    },
+    {
+      "class": "text",
+      "id": "527B2015-4234-4A8E-8A87-DB4B8F8983BD"
+    }
+  ],
+  "name": "Rectangle 8",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

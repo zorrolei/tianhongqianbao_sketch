@@ -1,0 +1,177 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9450980392156862,
+    "green": 0.9450980392156862,
+    "red": 0.9450980392156862
+  },
+  "do_objectID": "0CFD468B-985A-4531-9608-12853ECB6D37",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1241,
+    "width": 360,
+    "x": 5392,
+    "y": 2901
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "4707E5D6-C2F1-497F-8652-24654F2570F1"
+    },
+    {
+      "class": "group",
+      "id": "1CD29587-9E3D-46D1-B98B-6CDF79F02234"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FE8ED0D3-9CC3-40EF-BBE0-813F7EC2A076"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2DC73D7A-3C8E-49C1-88C2-D1D3FC34FB7C"
+    },
+    {
+      "class": "group",
+      "id": "A0424F4A-A721-41F0-89C6-3C200059A886"
+    },
+    {
+      "class": "group",
+      "id": "4839C02A-C6BF-4369-9803-1D6C564DFFC0"
+    },
+    {
+      "class": "group",
+      "id": "3449123E-7447-4213-A6FD-4360410868BB"
+    },
+    {
+      "class": "text",
+      "id": "9A78EB7E-B52D-40F7-AB70-D98D1705E76E"
+    },
+    {
+      "class": "text",
+      "id": "D1E1A830-AA85-4033-8E65-9946F2C1F25C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D46BE7BC-E1CC-4FBD-B137-E43DCC149744"
+    },
+    {
+      "class": "group",
+      "id": "0E6B4E98-E2B7-4845-8A3B-A55FDD043AC2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "386F6312-AC57-49BA-B5AD-8294FA9A8F68"
+    },
+    {
+      "class": "group",
+      "id": "8E918700-30FC-4BB1-BEDA-1109CD256C3E"
+    },
+    {
+      "class": "group",
+      "id": "A5FD60EA-72EF-415E-82CF-C1949EB01A0C"
+    },
+    {
+      "class": "group",
+      "id": "27C19105-2C05-477A-B07D-0492BA3B2BC2"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 179,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 1,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 2,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 360
+  },
+  "name": "会员中心-身份认证-绑定储蓄卡",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": 3
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

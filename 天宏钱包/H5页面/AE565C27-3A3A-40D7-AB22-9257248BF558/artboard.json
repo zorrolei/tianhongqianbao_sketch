@@ -1,0 +1,137 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "AE565C27-3A3A-40D7-AB22-9257248BF558",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 640,
+    "width": 360,
+    "x": 916,
+    "y": -158
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "360C6681-7966-4AE1-BE5B-F960EE0CD596"
+    },
+    {
+      "class": "text",
+      "id": "E1B97676-D252-491A-AF22-9A006A870D77"
+    },
+    {
+      "class": "text",
+      "id": "4F03F513-E9AC-4F34-A724-352CFB675B55"
+    },
+    {
+      "class": "text",
+      "id": "5598CEDE-AB05-4BB8-9384-1AC855A0F9A5"
+    },
+    {
+      "class": "group",
+      "id": "214884FD-4E6A-489C-B5C9-9CCB37BC4F99"
+    },
+    {
+      "class": "group",
+      "id": "B7043B9D-8D19-4127-8069-511CBA686BBB"
+    },
+    {
+      "class": "text",
+      "id": "EA999D2F-4D37-4950-A579-68F3C3615653"
+    },
+    {
+      "class": "group",
+      "id": "7B7A3AFF-BD81-4BF0-962D-5D2425B17D40"
+    },
+    {
+      "class": "group",
+      "id": "D13BD506-EF65-4F03-8B72-6563889C77C0"
+    },
+    {
+      "class": "group",
+      "id": "37FFEE31-95C1-4638-BD71-D10A26F4CBE6"
+    },
+    {
+      "class": "group",
+      "id": "F91F34F6-F454-421F-9075-1DF7562F1179"
+    },
+    {
+      "class": "group",
+      "id": "8C38FEC1-1178-47DF-9B24-5BCDDAD972A3"
+    },
+    {
+      "class": "group",
+      "id": "1FFCDA6C-A60A-4A1C-B579-400B7E7A689C"
+    },
+    {
+      "class": "text",
+      "id": "A46682D4-D5D7-426B-A7A3-7892DEF6AB0A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3BA9C1D5-896C-4D2C-BD4E-0E30D9CE1DB2"
+    },
+    {
+      "class": "group",
+      "id": "255E2B3D-65F5-41C3-9EB8-D4C7B01BF370"
+    }
+  ],
+  "name": "微信提示",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

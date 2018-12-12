@@ -1,0 +1,82 @@
+{
+  "_class": "group",
+  "do_objectID": "D8401D90-4A3D-4368-AC2F-B254D5DFF7E9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 144,
+    "width": 108,
+    "x": 0,
+    "y": 1
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "571A5235-EF20-4244-AFAB-B3C1C5F5AD09"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AA455B59-A656-469E-B887-D980AC3858AA"
+    },
+    {
+      "class": "group",
+      "id": "64257881-F4F8-4ABC-AF97-7D273BAEE837"
+    },
+    {
+      "class": "group",
+      "id": "CF4EF96E-D159-49E8-90C3-893950ACDB45"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B0EBB60B-6110-4259-A4C1-25A82B6E96AF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "931F3531-B334-449A-80AC-F21228009CCD"
+    },
+    {
+      "class": "group",
+      "id": "36D8EF04-54CB-4429-A19B-71509605F0ED"
+    },
+    {
+      "class": "group",
+      "id": "F10566C6-43D8-4AC6-A0EB-FCD993912724"
+    }
+  ],
+  "name": "手持证件",
+  "nameIsFixed": true,
+  "originalObjectID": "D8401D90-4A3D-4368-AC2F-B254D5DFF7E9",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 7,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "DDEBCD18-95E4-4019-BBBA-E83E41BA0697",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "pdf",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 640,
+    "width": 360,
+    "x": 3552,
+    "y": 287
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "90F2099F-5105-404D-98D6-922A53829FAE"
+    },
+    {
+      "class": "group",
+      "id": "F515F2EF-244D-4C90-B305-170EF20173FE"
+    },
+    {
+      "class": "group",
+      "id": "F52B22CE-71F2-4E88-BE50-6D12AAE44DBE"
+    },
+    {
+      "class": "group",
+      "id": "1F88B5A9-8581-4B41-A72F-4D5727FC7AF7"
+    },
+    {
+      "class": "group",
+      "id": "A9149380-D828-4953-8CF9-171E95A3B0CC"
+    },
+    {
+      "class": "group",
+      "id": "E182F0C3-6B4B-44E2-B316-E8D23DA1ED99"
+    },
+    {
+      "class": "group",
+      "id": "48FDEEF4-73EC-4FCD-B062-0A26326BDE74"
+    },
+    {
+      "class": "group",
+      "id": "18ACFB33-7BFD-4FD1-A741-2BFB00B978C0"
+    },
+    {
+      "class": "group",
+      "id": "64DE6E30-5E7E-478C-9415-93CD04C12D28"
+    },
+    {
+      "class": "group",
+      "id": "A95E2B9E-9045-455B-A1B1-C2C81952BFE9"
+    },
+    {
+      "class": "group",
+      "id": "9F59EE0A-6E92-4725-8F13-A1852252EB69"
+    },
+    {
+      "class": "group",
+      "id": "DD56A178-95F3-4513-B3A0-0BF11D73524C"
+    },
+    {
+      "class": "group",
+      "id": "D2278D1C-C2F3-4D5C-9581-E7777CAB34F9"
+    },
+    {
+      "class": "group",
+      "id": "23FF8C07-55FE-4CEC-A594-4CAE5DF245CA"
+    },
+    {
+      "class": "group",
+      "id": "07235C8B-6469-4757-B2D7-F227A488F6D3"
+    },
+    {
+      "class": "group",
+      "id": "BB164E5D-0E74-4001-98B0-567C28B843EC"
+    }
+  ],
+  "name": "按钮状态",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

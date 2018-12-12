@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "2E4C2A8D-806A-46AE-9222-40425B03DAA6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 50,
+    "width": 50,
+    "x": 63,
+    "y": 105
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "95B42739-4CE8-4353-B5F3-7C744117CA00"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E07C876B-0CF2-49B6-8D17-6A6149595E4C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3880CFD1-82FA-41DA-961B-C85D996B057F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "369EF428-C52B-497A-BE9F-B56298DF2C45"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "26C9B5BA-B518-4A82-9EED-5DCFD3DEACBD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "58F5E4A9-F37E-4401-AD9C-77A14B2E4C34"
+    }
+  ],
+  "name": "添加照片",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

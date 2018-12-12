@@ -1,0 +1,101 @@
+{
+  "_class": "group",
+  "do_objectID": "516AADAA-35DE-4591-95A3-7AE90931DEF0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 113,
+    "width": 122,
+    "x": 238,
+    "y": 36
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "100B6399-379A-433F-AB6F-8BC25326F6DE"
+    },
+    {
+      "class": "group",
+      "id": "7DFFA3ED-8BA7-468C-9D08-AC31DC4E5C80"
+    },
+    {
+      "class": "group",
+      "id": "FD209AB5-78AC-4FFF-B593-3D72F455F793"
+    },
+    {
+      "class": "group",
+      "id": "F397ECEE-493D-4367-8F4C-3BDD40D12009"
+    },
+    {
+      "class": "group",
+      "id": "D1ED205E-E5D2-43A1-B628-C3A8E05D190F"
+    },
+    {
+      "class": "group",
+      "id": "27851268-E013-40E3-B5CD-3B3A55B1298E"
+    },
+    {
+      "class": "group",
+      "id": "6BB3B662-D2E2-4ABC-BB2C-09886C7E50B2"
+    },
+    {
+      "class": "group",
+      "id": "FA204A37-2EBF-4E78-B14D-AA4647DB9495"
+    },
+    {
+      "class": "group",
+      "id": "0F0ACB17-BE41-4915-B27B-673CBD293977"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4219DB30-A57C-4CE7-A721-7858414A5407"
+    },
+    {
+      "class": "group",
+      "id": "D08B0981-0E6D-41AD-ACA0-58E5822FE55C"
+    },
+    {
+      "class": "group",
+      "id": "27664C90-51EB-4BEE-A63B-22C3928D347B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "27F16C3C-F7B4-4992-ABFC-D5DBFC9863DF"
+    }
+  ],
+  "name": "轮播图人物",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 2,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

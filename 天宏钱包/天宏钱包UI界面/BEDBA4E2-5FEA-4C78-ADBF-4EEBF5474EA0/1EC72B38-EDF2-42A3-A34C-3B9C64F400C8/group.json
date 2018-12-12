@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "1EC72B38-EDF2-42A3-A34C-3B9C64F400C8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 40,
+    "x": 939,
+    "y": 253
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "slice",
+      "id": "B2CFCDF7-B24F-421E-B702-C5172C4FF8C2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3AABB5DF-44F1-4E11-811C-5CA88E7C4A2B"
+    },
+    {
+      "class": "group",
+      "id": "5747768B-5B70-4516-B184-939EA7EB8B56"
+    }
+  ],
+  "name": "icon_bank_nongye",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

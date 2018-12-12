@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "C6A38928-C273-486D-9F95-18B189A8F00D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 36,
+    "width": 54,
+    "x": 8,
+    "y": 13
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "95DADC1F-110E-4F67-BF57-68F962062AA0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B07BB190-4EDF-4525-AF6F-0DA225CED579"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "533AB2EB-EC4C-41A9-A91C-3AC36EC22F5C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "10C7E06F-F714-4613-B184-A1706C810909"
+    },
+    {
+      "class": "group",
+      "id": "85F35F6C-8394-443B-8B50-FBA80D5AF29B"
+    }
+  ],
+  "name": "信用卡",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

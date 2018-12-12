@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "36D8EF04-54CB-4429-A19B-71509605F0ED",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 45,
+    "width": 35,
+    "x": 71,
+    "y": 77
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6EB6C1F8-15A9-4428-AFE8-A420C57C0ED5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "07D22F49-057C-4099-A55E-80B7C291A5DF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "10221341-18F0-44C5-BC63-F134D8050BD9"
+    }
+  ],
+  "name": "左手",
+  "nameIsFixed": true,
+  "originalObjectID": "36D8EF04-54CB-4429-A19B-71509605F0ED",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 7,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

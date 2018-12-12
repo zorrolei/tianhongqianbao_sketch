@@ -1,0 +1,50 @@
+{
+  "_class": "group",
+  "do_objectID": "44F4A2AE-A645-4CE7-BD47-1B213649CF83",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 40,
+    "width": 40,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "443944EB-F63C-41E1-BA08-B1EB83735FD0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "079660DB-503D-40F3-AB59-814C07129741"
+    }
+  ],
+  "name": "支付宝",
+  "nameIsFixed": false,
+  "originalObjectID": "44F4A2AE-A645-4CE7-BD47-1B213649CF83",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

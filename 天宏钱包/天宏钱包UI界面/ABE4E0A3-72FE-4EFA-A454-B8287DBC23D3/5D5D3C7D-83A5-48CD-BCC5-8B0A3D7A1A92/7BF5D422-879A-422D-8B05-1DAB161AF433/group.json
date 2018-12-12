@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "7BF5D422-879A-422D-8B05-1DAB161AF433",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 9,
+    "width": 30,
+    "x": 0,
+    "y": 17.46268656716438
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "356CC224-8C71-4C1A-BA22-13D3D8B30E39"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6556BA88-0729-491C-B462-9D8613D20DD2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DFC674C7-706C-4933-88D0-03211015128B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5D5BCCF8-8260-4D0D-AD79-803B70C72944"
+    }
+  ],
+  "name": "星星",
+  "nameIsFixed": true,
+  "originalObjectID": "9F3DF746-34F3-4200-B0FC-A59CC7E6FEE9",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

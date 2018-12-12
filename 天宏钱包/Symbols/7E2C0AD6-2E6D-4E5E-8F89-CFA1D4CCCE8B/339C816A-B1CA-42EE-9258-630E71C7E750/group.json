@@ -1,0 +1,50 @@
+{
+  "_class": "group",
+  "do_objectID": "339C816A-B1CA-42EE-9258-630E71C7E750",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 40,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7FD54706-E60B-499A-8367-02B1D5CC0DD7"
+    },
+    {
+      "class": "group",
+      "id": "0BE6CB7A-0180-4D68-AF5D-3FA582A7DF64"
+    }
+  ],
+  "name": "银联",
+  "nameIsFixed": false,
+  "originalObjectID": "339C816A-B1CA-42EE-9258-630E71C7E750",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

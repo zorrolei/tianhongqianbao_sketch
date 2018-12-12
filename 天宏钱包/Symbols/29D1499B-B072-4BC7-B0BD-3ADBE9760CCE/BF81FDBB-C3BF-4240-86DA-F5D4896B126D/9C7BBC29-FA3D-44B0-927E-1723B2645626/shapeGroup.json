@@ -1,0 +1,79 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "9C7BBC29-FA3D-44B0-927E-1723B2645626",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 99.76239569296604,
+    "width": 87.6025403784439,
+    "x": 12.5,
+    "y": 0.5
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "F20CCF4B-46EF-4B10-9D28-45C9159A8524"
+    },
+    {
+      "class": "shapePath",
+      "id": "B70A0DCF-658C-4C71-AE6D-68D6A1962B19"
+    },
+    {
+      "class": "shapePath",
+      "id": "89DBF278-8FAE-4E96-ACD9-80B0F732002D"
+    },
+    {
+      "class": "shapePath",
+      "id": "0B1A79EC-A2A4-4F68-A2ED-C1EB030F033E"
+    }
+  ],
+  "name": "Polygon Copy",
+  "nameIsFixed": false,
+  "originalObjectID": "9C7BBC29-FA3D-44B0-927E-1723B2645626",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7058823529411765,
+          "green": 0.3843137254901961,
+          "red": 0.1882352941176471
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 0
+}

@@ -1,0 +1,164 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9450980392156862,
+    "green": 0.9450980392156862,
+    "red": 0.9450980392156862
+  },
+  "do_objectID": "6B2BC0C4-526D-4453-8E7E-8F7B455E5B46",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1164,
+    "width": 360,
+    "x": 2172,
+    "y": 2901
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "49FC551A-C282-4B00-90C8-5617344B3158"
+    },
+    {
+      "class": "group",
+      "id": "09DA6C20-49AB-4376-A24C-271BCA593125"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D0DF5DB1-C98E-4840-94C2-CF3AA0E688D0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4C1797A8-5FB8-4F2F-9EF3-B4062EAAAE9B"
+    },
+    {
+      "class": "group",
+      "id": "780A0862-9E45-49D4-A95F-FE1FF54FFBC0"
+    },
+    {
+      "class": "group",
+      "id": "6E2CD901-D587-4489-B235-2DD45F7E37F2"
+    },
+    {
+      "class": "group",
+      "id": "AA0BF93E-9C92-4BC4-AA16-5F45598A18C0"
+    },
+    {
+      "class": "text",
+      "id": "5A1C639E-463B-4BE8-BBBE-EF8D0F286C1F"
+    },
+    {
+      "class": "text",
+      "id": "E6642174-8D69-480E-AAEA-DA001A8130B6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CCA1D500-FC10-4A60-B5C3-A20F7AFED898"
+    },
+    {
+      "class": "group",
+      "id": "372403F4-87CD-4489-A9B5-FBFBD8FBD812"
+    },
+    {
+      "class": "group",
+      "id": "7CFD9E96-E64B-450E-8736-641D6DD84F7B"
+    },
+    {
+      "class": "group",
+      "id": "CA2E0DFF-F445-40A4-AF65-373587DAD2A4"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 179,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 1,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 2,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 360
+  },
+  "name": "会员中心-设置-储蓄卡变更",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

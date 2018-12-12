@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "2C57BA86-378F-44CD-B664-851227E6ED7A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 40,
+    "x": 873,
+    "y": 403
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "slice",
+      "id": "2EB92EE6-7997-4B45-A455-813BF825F553"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C6758A34-2636-4798-A08F-CC499116CFE6"
+    },
+    {
+      "class": "group",
+      "id": "D9AC767E-122A-43D6-B089-ABA1A6DBFC62"
+    }
+  ],
+  "name": "icon_bank_beijing",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

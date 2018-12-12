@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "EB9B79D9-C5BF-4CA0-9380-05014148B1DF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 40,
+    "x": 1071,
+    "y": 353
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "slice",
+      "id": "EB8556C1-9AFC-487A-98DF-A2217CF1C32B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8BCF6842-4CDD-4596-B492-23066E278771"
+    },
+    {
+      "class": "group",
+      "id": "B5E9C9EF-2A5C-4BE4-924B-EEC1A7D3679F"
+    }
+  ],
+  "name": "icon_bank_ningbo",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "B74C5A3D-8DC3-495F-83CE-FA855E2D60AD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 40,
+    "x": 939,
+    "y": 303
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "slice",
+      "id": "20C3F9BC-D0A2-4EB5-96F4-794ED30D0490"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "59BD6B3F-8E8E-484A-B339-EB6EC525AB50"
+    },
+    {
+      "class": "group",
+      "id": "B208434B-2F53-43F9-AEBE-350FBC0C9A3B"
+    }
+  ],
+  "name": "icon_bank_zhongxin",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
